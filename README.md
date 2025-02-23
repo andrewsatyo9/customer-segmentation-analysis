@@ -20,20 +20,20 @@ This project applies K-Means clustering to segment customers based on their **An
 
 ### **3. Exploratory Data Analysis**
 #### 📊 **Distribution of Annual Income**
-![Annual Income Distribution](annual_income_distribution.png)
+![Annual Income Distribution](images/annual_income_distribution.png)
 
 #### 📊 **Distribution of Spending Score**
-![Spending Score Distribution](spending_score_distribution.png)
+![Spending Score Distribution](images/spending_score_distribution.png)
 
 #### 📊 **Annual Income vs Spending Score**
-![Annual Income vs Spending Score](income_vs_spending.png)
+![Annual Income vs Spending Score](images/income_vs_spending.png)
 
 ### **4. Finding Optimal Clusters (Elbow Method)**
 - Used the **Elbow Method** to determine the best number of clusters.
 - Plotted inertia values to identify the optimal `k`.
 
 #### 📈 **Elbow Method Plot**
-![Elbow Method](elbow_method.png)
+![Elbow Method](images/elbow_method.png)
 
 ### **5. Apply K-Means Clustering**
 - Applied K-Means with `k=5`.
@@ -43,7 +43,7 @@ This project applies K-Means clustering to segment customers based on their **An
 - Scatter plot to illustrate different customer segments.
 
 #### 🎨 **Customer Segments**
-![Customer Segments](customer_segments.png)
+![Customer Segments](images/customer_segments.png)
 
 ## 🔍 Findings
 - **Cluster 1**: Low income, low spending (budget-conscious shoppers).
